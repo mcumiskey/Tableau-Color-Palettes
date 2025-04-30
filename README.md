@@ -2,14 +2,17 @@
 The collection of Palettes I use most often, ready to be copied and pasted. 
 
 ## Okabe and Ito
+```
 <color-palette name="Okabe and Ito" type="regular">
 <color>#303030</color> <color>#009e74</color>
 <color>#0071b2</color> <color>#56b3e9</color>
 <color>#f0e442</color> <color>#e69f00</color>
 <color>#d55c00</color> <color>#cc79a7</color>
 </color-palette>
+```
 
 ## Paul Tol
+```
 <color-palette name="Paul Tol Muted" type="regular">
 <color>#dddddd</color><color>#2f2585</color>
 <color>#337539</color><color>#5da899</color>
@@ -17,7 +20,9 @@ The collection of Palettes I use most often, ready to be copied and pasted.
 <color>#c36a77</color><color>#9f4a97</color>
 <color>#7e2954</color> 
 </color-palette>
+```
 
+```
 <color-palette name="Paul Tol Bright" type="regular">
 <color>#dddddd</color><color>#aaaa00</color>
 <color>#bbcc33</color><color>#44bb99</color>
@@ -25,7 +30,9 @@ The collection of Palettes I use most often, ready to be copied and pasted.
 <color>#ffaabb</color><color>#eedd88</color>
 <color>#ee8866</color>
 </color-palette>
+```
 
+```
 <color-palette name="Paul Tol Rainbow" type="sequential">
 <color>#6F4C9B</color>
 <color>#6059A9</color>
@@ -53,8 +60,10 @@ The collection of Palettes I use most often, ready to be copied and pasted.
 <color>#721E17 </color>
 <color>#521A13 </color>
 </color-palette>
+```
 
 ## Carto
+```
 <color-palette name="Carto Fall" type="regular">
   <color>#3d5941</color>
   <color>#778868</color>
@@ -64,3 +73,4 @@ The collection of Palettes I use most often, ready to be copied and pasted.
   <color>#de8a5a</color>
   <color>#ca562c</color>
 </color-palette>
+```
